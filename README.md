@@ -1,6 +1,3 @@
-
-Grantt Xiv
-
 ```rust
 #[derive(Debug)]
 struct GrantXiv {
