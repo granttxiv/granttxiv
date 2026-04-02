@@ -1,35 +1,7 @@
 
+Grantt Xiv
 
 ```rust
- #[derive(Debug)]
-enum Role {
-    SoftwareEngineer,
-}
-
-#[derive(Debug)]
-struct GitHub {
-    username: String,
-}
-
-#[derive(Debug)]
-struct Email {
-    address: String,
-}
-
-#[derive(Debug)]
-struct Twitter {
-    handle: String,
-}
-
-#[derive(Debug)]
-enum Technology {
-    Python,
-    Golang,
-    TypeScript,
-    Rust,
-}
-
-
 #[derive(Debug)]
 struct GrantXiv {
     role: Role,
